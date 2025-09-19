@@ -5,6 +5,6 @@ b= 6
 print(b)
 print ("Soy Andres")
 print ("Soy el otro")
-a = 5
+a = 3
 print(a)
 
