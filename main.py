@@ -6,6 +6,5 @@ b= 6
 print(b)
 print ("Soy Andres")
 print ("De noche salimos a deshacer")
-nombre = "Andres Serna"
 print(a)
 
