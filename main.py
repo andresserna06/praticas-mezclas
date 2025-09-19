@@ -1,1 +1,2 @@
-print ("Hola")
+nombre = "Mundo"
+print ("Hola " + nombre)
