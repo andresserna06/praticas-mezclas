@@ -1,6 +1,6 @@
 nombre = "Mundo"
 print ("Hola " + nombre)
-print ("Soy el otro")
+print ("Soy Michell")
 b= 6
 print(b)
 print ("Soy Andres")
