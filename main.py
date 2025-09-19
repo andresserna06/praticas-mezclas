@@ -4,7 +4,7 @@ print ("Soy el otro")
 b= 6
 print(b)
 print ("Soy Andres")
-print ("Soy el otro")
+print ("Soy una gargola")
 a = 8
 print(a)
 
